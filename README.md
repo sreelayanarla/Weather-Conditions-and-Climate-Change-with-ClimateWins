@@ -62,7 +62,5 @@ The project evaluates three supervised machine learning algorithms:
 
 ---
 
-## 🧩 Requirements
-
-Create a `requirements.txt` with your Python libraries (example below):
+## 
 
